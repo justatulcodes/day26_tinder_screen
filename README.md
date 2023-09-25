@@ -1,16 +1,6 @@
 # day26_tinder_screen
 
-A new Flutter project.
 
-## Getting Started
+<img src="https://github.com/justatulcodes/day26_tinder_screen/assets/106759388/400739be-365a-4946-bcb1-9e085ef4ddbe" alt="Image" width="500" height="500">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## [Click To Watch Video](https://www.youtube.com/watch?v=F_e0Pe5qTLA)
